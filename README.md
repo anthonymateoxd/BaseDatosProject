@@ -17,10 +17,10 @@ Este proyecto es un **sistema de compra y facturación** desarrollado utilizando
 Sigue estos pasos para ejecutar el proyecto localmente:
 
 1. **Clona el repositorio**:
-   ```bash
+   -- Realizar el respectivo Fork y clonarlo.
 
 2. **Asegurate de tener todas las descargas necesarias en tu computadora**:
-    -- porfavor tener descargado antes de realizar el Fork la clonacion, Django y postgres en sus computadoras.
+   -- porfavor tener descargado antes de realizar el Fork la clonacion, Django y postgres en sus computadoras.
 
 3. **Confirmar**:
-Cuando todos tengan el mismo archivo clonado y funcionando en su computadora avisar.
+   -- Cuando todos tengan el mismo archivo clonado y funcionando en su computadora avisar.
