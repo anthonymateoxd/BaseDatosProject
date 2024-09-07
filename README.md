@@ -18,8 +18,6 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 
 1. **Clona el repositorio**:
    ```bash
-  
-   git clone https://github.com/usuario/proyecto.git
    
 2. **Asegurate de tener todas las descargas necesarias en tu computadora**:
     -- porfavor tener descargado antes de realizar el Fork la clonacion, Django y postgres en sus computadoras.
